@@ -1,0 +1,28 @@
+{
+  "id": "91d3d060-291f-480d-a73e-4d49453946a7",
+  "name": "Thanks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thank you for interacting with me. If you want to know more, please feel free to ping me. I\u0027ll be happy to help and I wish you all the best."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541576134,
+  "fallbackIntent": false,
+  "events": []
+}

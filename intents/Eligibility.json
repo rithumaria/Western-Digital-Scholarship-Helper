@@ -1,0 +1,28 @@
+{
+  "id": "e6cb2380-b79c-48d7-b3d4-588e9d16be4d",
+  "name": "Eligibility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The eligibility criteria for applying to Western Digital Scholarship is given below:\n 1) Undergraduate student enrolled on a full-time basis at a four-year accredited University located in the countries where scholarships are being offered. \n2) Majoring in Computer Science (B.S. programs only), Engineering, Mathematics or Science (excluding agricultural sciences, health and other life sciences) .\n3) Minimum grade average of 3.0 on a 4.0 scale or equivalent.\n 4) Demonstrated financial need 5) Traditionally under-represented populations in the STEM disciplines, including females and individuals of African-American or Latino descent in the United States. Is there anything more you would like to know about?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541333206,
+  "fallbackIntent": false,
+  "events": []
+}

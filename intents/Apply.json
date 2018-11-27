@@ -1,0 +1,49 @@
+{
+  "id": "f6295721-d105-44d1-ab43-e341ce5d2a0b",
+  "name": "Apply",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Western Digital Scholarship",
+          "image": {
+            "url": "https://www.google.com/imgres?imgurl\u003dhttp%3A%2F%2Fwww.buyrmart.com%2Fmedia%2F%2Fvesbrand%2Fwd_logo.png\u0026imgrefurl\u003dhttp%3A%2F%2Fwww.buyrmart.com%2Findex.php%2Fves-brand%2Fwd.html\u0026docid\u003doz076hk1MrWyVM\u0026tbnid\u003dWij_li9TqoEhbM%3A\u0026vet\u003d10ahUKEwj-n8COlbPeAhWJbysKHcRGDloQMwhaKAswCw..i\u0026w\u003d200\u0026h\u003d200\u0026bih\u003d754\u0026biw\u003d1536\u0026q\u003dwestern%20digital%20logo%20\u0026ved\u003d0ahUKEwj-n8COlbPeAhWJbysKHcRGDloQMwhaKAswCw\u0026iact\u003dmrc\u0026uact\u003d8",
+            "accessibilityText": "Western Digital Scholarship logo"
+          },
+          "buttons": [
+            {
+              "title": "Western Digital Scholarship Website",
+              "openUrlAction": {
+                "url": "https://www.wdc.com/about-wd/philanthropy/scholarship.html",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Click on the link below to know more about Western Digital Scholarship. Is there anything more you would like to know about?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541576849,
+  "fallbackIntent": false,
+  "events": []
+}

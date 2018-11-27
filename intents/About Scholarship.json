@@ -1,0 +1,28 @@
+{
+  "id": "d738bfdf-8c94-4bfc-8009-c0b5a1d0ef52",
+  "name": "About Scholarship",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Western Digital Scholarship Program was established to help realize the potential of future scientists, technologists, engineers and mathematicians, as well as the dependents of our talented workforce. The global program is committed to awarding up to $1 million in scholarships to encourage and assist students whose educational opportunities will be expanded by financial assistance. \n\nThe Western Digital Scholarship program will award up to 500, one-time scholarships per year. The maximum total award per recipient is $5,000 USD. Is there anything more you would like to know about?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541333135,
+  "fallbackIntent": false,
+  "events": []
+}

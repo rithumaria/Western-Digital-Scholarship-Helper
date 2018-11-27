@@ -1,0 +1,28 @@
+{
+  "id": "2adbef82-312c-4fdc-8610-f215316eb79f",
+  "name": "No",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thank you for interacting with me. If you want to know more, please feel free to ping me. I\u0027ll be happy to help and I wish you all the best."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541575502,
+  "fallbackIntent": false,
+  "events": []
+}
